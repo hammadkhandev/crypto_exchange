@@ -15,5 +15,12 @@ A new Flutter project for crypto exchange.
     * XML
     * MarkDown
 
-## Authors
-* Sk Rockybul Hasan Rasel, Custom App Development, iTech Soft Solutions - [Rasel]
+##  Technologies Used:
+###  Flutter
+###  Dart
+
+
+## Collaboration with Authors
+
+## Project: MCEX
+*Author: Hasan Rasel
