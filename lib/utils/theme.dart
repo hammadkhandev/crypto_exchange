@@ -51,15 +51,15 @@ class Themes {
   );
 
   static final darkTextTheme = TextTheme(
-    titleSmall: GoogleFonts.roboto(fontWeight: FontWeight.bold, color: cWhite, fontSize: Dimens.titleFontSizeSmall),
-    labelSmall: GoogleFonts.roboto(fontWeight: FontWeight.normal, color: cSonicSilver, fontSize: Dimens.regularFontSizeSmall),
-    bodyLarge: GoogleFonts.roboto(fontWeight: FontWeight.bold, color: cWhite, fontSize: Dimens.titleFontSizeSmall),
+    titleSmall: GoogleFonts.robotoMono(fontWeight: FontWeight.bold, color: cWhite, fontSize: Dimens.titleFontSizeSmall),
+    labelSmall: GoogleFonts.robotoMono(fontWeight: FontWeight.normal, color: cSonicSilver, fontSize: Dimens.regularFontSizeSmall),
+    bodyLarge: GoogleFonts.robotoMono(fontWeight: FontWeight.bold, color: cWhite, fontSize: Dimens.titleFontSizeSmall),
     //for button
-    labelLarge: GoogleFonts.roboto(fontWeight: FontWeight.bold, color: cWhite, fontSize: Dimens.buttonFontSize),
+    labelLarge: GoogleFonts.robotoMono(fontWeight: FontWeight.bold, color: cWhite, fontSize: Dimens.buttonFontSize),
     //For TextField
-    bodyMedium: GoogleFonts.roboto(fontWeight: FontWeight.normal, color: cWhite, fontSize: Dimens.regularFontSizeMid),
+    bodyMedium: GoogleFonts.robotoMono(fontWeight: FontWeight.normal, color: cWhite, fontSize: Dimens.regularFontSizeMid),
     //For Support currency symbol
-    bodySmall: GoogleFonts.roboto(fontWeight: FontWeight.normal, color: cSonicSilver, fontSize: Dimens.regularFontSizeSmall),
+    bodySmall: GoogleFonts.robotoMono(fontWeight: FontWeight.normal, color: cSonicSilver, fontSize: Dimens.regularFontSizeSmall),
   );
 }
 
